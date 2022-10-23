@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common.iml" filepath="$PROJECT_DIR$/.idea/modules/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/common.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/common.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/common.lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/common.lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/common.lib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/common.lib.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/common.lib.test.iml" />
+    </modules>
+  </component>
+</project>
